@@ -1,5 +1,5 @@
 ---
-icon: material/library-outline
+icon: material/library
 title: 傳說
 subtitle: 
 ---
