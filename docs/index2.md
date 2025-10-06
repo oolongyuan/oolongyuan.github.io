@@ -1,10 +1,10 @@
 ---
 icon: material/library-outline
-title: 烏龍傳說
+title: 傳說
 subtitle: 
 ---
 
-# 烏龍院傳說
+# 烏龍傳說
 
 此『烏龍院』非彼『烏龍院』。。。。
 
