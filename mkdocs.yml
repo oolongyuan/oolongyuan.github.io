@@ -1,15 +1,15 @@
-site_name: 69文獻
+site_name: 烏龍院
 
-site_url: http://myseq.github.io/69docs/
-site_author: zd
+site_url: http://oolongyuan.github.io/
+site_author: mq
 site_description: >-
-  陰陽、易經和太極拳的文獻與資料。
+  烏龍院藏書窟
 
-repo_name: myseq/69docs
-repo_url: https://github.com/myseq/69docs
+repo_name: oolongyuan/oolongyuan.github.io
+repo_url: https://github.com/oolongyuan/oolongyuan.github.io
 
 # Copyright
-copyright: Copyright &copy; 2024 zd☯️ 
+copyright: Copyright &copy; 2025 mq ☯️ 
 
 # Configuration
 theme:
@@ -98,7 +98,7 @@ markdown_extensions:
 extra:
   social:
     - icon: simple/github
-      link: https://github.com/myseq/69docs/
+      link: https://github.com/oolongyuan/oolongyuan.github.io/
   analytics:
     provider: google
     property: G-CQL491X0G6
