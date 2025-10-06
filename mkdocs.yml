@@ -1,7 +1,7 @@
 site_name: 烏龍院
 
 site_url: http://oolongyuan.github.io/
-site_author: mq
+site_author: mq_墨泉
 site_description: >-
   烏龍院藏書窟
 
@@ -96,9 +96,9 @@ markdown_extensions:
   - pymdownx.tilde
 
 extra:
-  social:
-    - icon: simple/github
-      link: https://github.com/oolongyuan/oolongyuan.github.io/
+  #social:
+  #  - icon: simple/github
+  #    link: https://github.com/oolongyuan/oolongyuan.github.io/
   analytics:
     provider: google
     property: G-CQL491X0G6
@@ -106,5 +106,4 @@ extra:
 extra_css:
   - stylesheets/extra.css
                              
-
 
