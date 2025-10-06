@@ -1,0 +1,110 @@
+site_name: 69文獻
+
+site_url: http://myseq.github.io/69docs/
+site_author: zd
+site_description: >-
+  陰陽、易經和太極拳的文獻與資料。
+
+repo_name: myseq/69docs
+repo_url: https://github.com/myseq/69docs
+
+# Copyright
+copyright: Copyright &copy; 2024 zd☯️ 
+
+# Configuration
+theme:
+  name: material
+    #locale: zh_TW
+  language: zh-TW
+  palette:
+
+    # Palette toggle for dark mode (default)
+    - scheme: slate
+      accent: lime
+      primary: amber
+      toggle:
+        icon: material/brightness-4
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: light
+      accent: indigo
+      primary: black
+      primary: light blue
+      toggle:
+        icon: material/brightness-7
+        icon: material/weather-night
+        name: Switch to dark mode
+
+  favicon: material/yin-yang 
+  favicon: assets/yy.ico
+  icon: 
+    logo: fontawesome/solid/yin-yang
+
+  font:
+    size: 24px
+    text: Stick
+    code: Fira Mono
+
+  features:
+    - search.suggest
+    - search.highlight
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.footer
+    - navigation.instant
+      #- content.footnote.tooltips    ## insiders-only
+      #- navigation.instant.prefetch   ## insiders-only
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.follow
+      #- navigation.path   ## insiders-only
+
+      #    - navigation.tabs
+      #    - navigation.tabs.sticky     
+
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+extra:
+  social:
+    - icon: simple/github
+      link: https://github.com/myseq/69docs/
+  analytics:
+    provider: google
+    property: G-CQL491X0G6
+
+extra_css:
+  - stylesheets/extra.css
+                             
+
+
