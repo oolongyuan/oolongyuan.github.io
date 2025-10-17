@@ -1,10 +1,10 @@
 ---
 icon: material/yin-yang
-title: 縱橫太極
-subtitle: 
+title: 縱橫.太極
+subtitle: 拳經資料   
 ---
 
-# 縱橫太極
+# 拳經資料
 
 太極拳，名稱始見於清乾隆年間 **武禹襄** 太極拳譜第一篇之太極拳論。
 武稱作者是 **王宗岳**。
