@@ -1,6 +1,6 @@
 ---
 icon: material/yin-yang
-title: 縱橫:太極
+title: 縱橫：太極
 subtitle: 拳經。文獻。要訣。
 ---
 
