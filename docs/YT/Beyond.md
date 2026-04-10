@@ -1,5 +1,5 @@
 ---
-icon: material/library-outline
+icon: material/youtube
 title: Beyond
 ---
 
