@@ -18,6 +18,7 @@ subtitle:
 
  1. [50初階06_20260521](https://iframe.mediadelivery.net/embed/431082/2da484e6-29e0-4ffd-b461-52d409f37a44?autoplay=false){target="_blank"}
 
+ 1. [50初階07_20260528](https://iframe.mediadelivery.net/embed/431082/5797aed9-5adf-4844-a5c1-40102f27665a?autoplay=false){target="_blank"}
 
 
 
