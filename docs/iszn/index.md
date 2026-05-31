@@ -23,6 +23,9 @@ subtitle: 50屆 初階班
  - [50初階03_20260430](/iszn/class_03/)
  - [03_20260430_video](https://iframe.mediadelivery.net/embed/431082/ebaeaed0-c390-4052-b9e7-f98731c99cb5?autoplay=false){target="_blank"}
 
+
+## 50初階04
+
  1. [50初階04_20260507](/iszn/class_04/)
  
     - [04_20260507_video](https://iframe.mediadelivery.net/embed/431082/15a47795-d5ce-43dc-8390-27b5236dbc16?autoplay=false){target="_blank"}
