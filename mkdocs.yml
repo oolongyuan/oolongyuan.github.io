@@ -43,7 +43,7 @@ theme:
     logo: fontawesome/solid/yin-yang
 
   font:
-    size: 26px
+    size: 32px
     text: Stick
     code: Fira Mono
 
