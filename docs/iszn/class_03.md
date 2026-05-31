@@ -177,7 +177,7 @@ subtitle: 2026.04.30
 ### ★ 身宮
 
  - YT補充：
-   - <https://www.youtube.com/watch?v=w4wxjUEYmkA&t=699s>
+    - <https://www.youtube.com/watch?v=w4wxjUEYmkA&t=699s>
  - → **一生在乎的價值**，不是固定結果，怎麼在乎，要看裡面的星曜。
  - 身宮只出現在本命盤，依出生時辰與六個宮位之一重疊。
  - 身宮在財帛宮不等於愛賺錢，也可以很愛花錢。
@@ -188,8 +188,8 @@ subtitle: 2026.04.30
 ### ★ 三方四正
 
  - YT補充：
-   - <https://www.youtube.com/watch?v=zb6Qdgy6Mmo&t=186s&pp=0gcJCd4KAYcqIYzv>
-   - <https://www.youtube.com/watch?v=0gdbini_xlg>
+    - <https://www.youtube.com/watch?v=zb6Qdgy6Mmo&t=186s&pp=0gcJCd4KAYcqIYzv>
+    - <https://www.youtube.com/watch?v=0gdbini_xlg>
  - 命宮：董事長—主軸、意志、想做什麼
  - 遷移宮：總經理—對外代表、外在執行
  - 官祿宮：業務團隊—工作表現、行動方向
