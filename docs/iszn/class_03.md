@@ -76,12 +76,11 @@ subtitle: 2026.04.30
 
 **★ 正課開宗明義觀念**：
 
- [x] 條件越多準確率越高
- [x] 不要==單宮單星論==
- [x] 不要背書式學習
-
+ - [x] 條件越多準確率越高
+ - [x] 不要單宮單星論
+ - [x] 不要背書式學習
  - [x] 盤上訊息需要交叉比對
- - [x] 所有事件都會==同時存在==
+ - [x] 所有事件都會同時存在
 
 ### ★ 解盤方式介紹
 
@@ -149,7 +148,7 @@ subtitle: 2026.04.30
     - <https://www.youtube.com/watch?v=_jqzusN8JpE>
     - <https://www.youtube.com/watch?v=Z9e9gcPSZDw&list=PLutk_LOtgr7Q8bHAP3x4JZFrOP3h0uYtr&index=124>
     - <https://www.youtube.com/watch?v=ixjOdfc9Vss&list=PLutk_LOtgr7Q8bHAP3x4JZFrOP3h0uYtr&index=119>
- - 化氣為財，五行屬金。
+ - ==化氣為財==，^^五行屬金^^。
  - 正財星（武曲）的特質只在財帛宮、命宮才算；放其他宮位則代表「**真實的實際的價值**」。
  - 正財跟法律無關，只要是你自己認真努力付出的就算正財，臨時起意不算，有計劃固定的才算。
  - 賭博：靠技術（德州撲克）可算正財；樂透努力不一定得，非正財。
