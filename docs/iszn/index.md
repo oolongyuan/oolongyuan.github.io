@@ -1,8 +1,9 @@
 ---
 icon: material/library-outline
-title: ISZN
-subtitle: 
+title: ISZN 
+subtitle: 50屆 初階班
 ---
+
 
 # ISZN
 
