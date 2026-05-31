@@ -7,6 +7,8 @@ subtitle: 50屆 初階班
 
 # Notes and Videos
 
+![10_rules](/iszn/10_rules.png)
+
 ## 50初階01
 
  - [50初階01_20260416](/iszn/class_01/)
