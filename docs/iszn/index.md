@@ -6,6 +6,8 @@ subtitle:
 
 # ISZN
 
+ 1. [50初階01_20260416](/iszn/class01/)
+
  1. [50初階01_20260416](https://iframe.mediadelivery.net/embed/431082/e5ddc1fb-1711-4a39-840f-a7afd6e9a5ee?autoplay=false){target="_blank"}
 
  1. [50初階02_20260423](https://iframe.mediadelivery.net/embed/431082/ba5ad910-69f7-44cc-a124-768a7cfc8ce7?autoplay=false){target="_blank"}
