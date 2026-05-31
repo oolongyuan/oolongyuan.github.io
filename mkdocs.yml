@@ -95,6 +95,8 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 extra:
   #social:
