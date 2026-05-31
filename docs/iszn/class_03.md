@@ -8,9 +8,10 @@ subtitle: 2026.04.30
 
 ## 一、前導課
 
-[天干地支相關補充](https://lucidchateau.blogspot.com/2016/01/blog-post_6.html)
+**補充**:
 
-[掌中訣相關補充](https://lucidchateau.blogspot.com/2017/06/1976-1954-1964-1974-1984-1994-2004-1969.html)
+ - [天干地支相關補充](https://lucidchateau.blogspot.com/2016/01/blog-post_6.html)
+ - [掌中訣相關補充](https://lucidchateau.blogspot.com/2017/06/1976-1954-1964-1974-1984-1994-2004-1969.html)
 
  - 天干有10個：甲、乙、丙、丁、戊、己、庚、辛、壬、癸
  - 地支有12個：子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥
@@ -89,15 +90,16 @@ subtitle: 2026.04.30
     - → 我在感情上要得到尊重，找讓我覺得很有面子的，通常條件很好。
     - → 男生偏「漂亮、帶出去有面子」；女生偏「有能力」。
 
- 1. **對宮是內心與表現**： 貪狼：懂吃懂喝懂玩，有人緣、多才多藝，反之，考量到面子的問題木訥、居家型的可能就不太行。
+ 1. **對宮是內心與表現**： 
 
+    - 貪狼：懂吃懂喝懂玩，有人緣、多才多藝，
+    - 反之，考量到面子的問題木訥、居家型的可能就不太行。
 
  1. **加入煞星**：
 
     - 擎羊的加入與態度延伸--- 擎羊：堅持
     - 例 → 認識這樣的男生，我一定不顧一切的要跟他在一起…（若是火星則可能會因為要追求太久而想說算了）
     - → 主星為主，解釋完後把輔星、四煞丟進去。
-
 
  1. **左輔右弼疊加**：
 
@@ -113,34 +115,37 @@ subtitle: 2026.04.30
 
 ### ★ 星曜： 殺破狼
 
- - → 三顆星曜必為三合，在三方四正內。
+三顆星曜必為三合，在三方四正內。
 
-YT補充殺破狼1：https://www.youtube.com/watch?v=eeMGAkDjKF4&t=1s
-YT補充殺破狼2：https://www.youtube.com/watch?v=QQOzewsn2_E
-YT補充殺破狼3：https://www.youtube.com/watch?v=mxWDnR1CCBk
-YT補充破軍：https://www.youtube.com/watch?v=eeMGAkDjKF4
-YT補充貪狼：https://www.youtube.com/watch?v=s03HxjNZsJc
-YT補充七殺：https://www.youtube.com/watch?v=fG7taORWmz4
+ - [YT補充殺破狼1：](https://www.youtube.com/watch?v=eeMGAkDjKF4&t=1s)
+ - [YT補充殺破狼2：](https://www.youtube.com/watch?v=QQOzewsn2_E)
+ - [YT補充殺破狼3：](https://www.youtube.com/watch?v=mxWDnR1CCBk)
+ - [YT補充破軍：](https://www.youtube.com/watch?v=eeMGAkDjKF4)
+ - [YT補充貪狼：](https://www.youtube.com/watch?v=s03HxjNZsJc)
+ - [YT補充七殺：](https://www.youtube.com/watch?v=fG7taORWmz4)
 
-1、貪狼：化氣為桃花
+#### 1、貪狼：化氣為桃花
+
 →慾望、我想要，事情開始發生，但桃花不只是異性緣，而是：
 事情的發生、關係的發生、慾望的發生、機會的發生及生命力長出來，所以貪狼不是低級的「貪」，而是人會想要、會追求、會對世界產生興趣的起點。
 
-2、破軍：化氣為耗
+#### 2、破軍：化氣為耗
 →為了夢想可以大破大立，古書說破軍化氣為耗，容易被看成破敗、損耗。但破耗可能是：
 為了夢想投入成本、為了創意承受失敗、為了突破打破舊結構及為了創造新價值而消耗資源，老師舉自己開餐廳賠千萬的故事。外人看是破財，但對他來說，那是完成夢想：想在古蹟裡開一間餐廳。這就是破軍。
 老師也舉同學用紅磚牆磨成水果盤的藝術作品：材料一磨就裂，必須不斷失敗、不斷試、不斷花錢。這也是破軍式創意。
 
-3、七殺：化氣為殺
-→七殺不是偏執，不是壞，而是把事情做到底的意志力。沒有七殺，破軍的夢想可能只是空談；有七殺，夢想才可能落地。
+#### 3、七殺：化氣為殺
 
-4、武曲
-YT補充武曲：
-https://www.youtube.com/watch?v=_jqzusN8JpE
-https://www.youtube.com/watch?v=Z9e9gcPSZDw&list=PLutk_LOtgr7Q8bHAP3x4JZFrOP3h0uYtr&index=124
-https://www.youtube.com/watch?v=ixjOdfc9Vss&list=PLutk_LOtgr7Q8bHAP3x4JZFrOP3h0uYtr&index=119
-☞化氣為財，五行屬金。
-→正財星（武曲）的特質只在財帛宮、命宮才算；放其他宮位則代表「真實的實際的價值」。
+ - → 七殺不是偏執，不是壞，而是把事情做到底的意志力。
+ - 沒有七殺，破軍的夢想可能只是空談；有七殺，夢想才可能落地。
+
+**4、武曲**
+
+ - [YT補充武曲：](https://www.youtube.com/watch?v=_jqzusN8JpE)
+ - [YT補充武曲：](https://www.youtube.com/watch?v=Z9e9gcPSZDw&list=PLutk_LOtgr7Q8bHAP3x4JZFrOP3h0uYtr&index=124)
+ - [YT補充武曲：](https://www.youtube.com/watch?v=ixjOdfc9Vss&list=PLutk_LOtgr7Q8bHAP3x4JZFrOP3h0uYtr&index=119)
+ -  化氣為財，五行屬金。
+ - → 正財星（武曲）的特質只在財帛宮、命宮才算；放其他宮位則代表「真實的實際的價值」。
 。正財跟法律無關，只要是你自己認真努力付出的就算正財，臨時起意不算，有計劃固定的才算。
 。賭博：靠技術（德州撲克）可算正財；樂透努力不一定得，非正財。
 。法律是依時代文化的道德底線，不是真實現象。臺灣 70 年前重婚合法、120 年前三妻四妾合法，規則隨時代變遷。
