@@ -7,17 +7,21 @@ subtitle: 50屆 初階班
 
 # Notes and Videos
 
- 1. [50初階01_20260416](/iszn/class_01/)
+## 50初階01
 
-    - [01_20260416_video](https://iframe.mediadelivery.net/embed/431082/e5ddc1fb-1711-4a39-840f-a7afd6e9a5ee?autoplay=false){target="_blank"}
+ - [50初階01_20260416](/iszn/class_01/)
+ - [01_20260416_video](https://iframe.mediadelivery.net/embed/431082/e5ddc1fb-1711-4a39-840f-a7afd6e9a5ee?autoplay=false){target="_blank"}
 
- 1. [50初階02_20260423](/iszn/class_02/)
- 
-    - [02_20260423_video](https://iframe.mediadelivery.net/embed/431082/ba5ad910-69f7-44cc-a124-768a7cfc8ce7?autoplay=false){target="_blank"}
+## 50初階02
 
- 1. [50初階03_20260430](/iszn/class_03/)
- 
-    - [03_20260430_video](https://iframe.mediadelivery.net/embed/431082/ebaeaed0-c390-4052-b9e7-f98731c99cb5?autoplay=false){target="_blank"}
+ - [50初階02_20260423](/iszn/class_02/)
+
+ - [02_20260423_video](https://iframe.mediadelivery.net/embed/431082/ba5ad910-69f7-44cc-a124-768a7cfc8ce7?autoplay=false){target="_blank"}
+
+## 50初階03
+
+ - [50初階03_20260430](/iszn/class_03/)
+ - [03_20260430_video](https://iframe.mediadelivery.net/embed/431082/ebaeaed0-c390-4052-b9e7-f98731c99cb5?autoplay=false){target="_blank"}
 
  1. [50初階04_20260507](/iszn/class_04/)
  
