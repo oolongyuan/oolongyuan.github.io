@@ -1,7 +1,7 @@
 ---
 icon: material/library-outline
 title: 50初階01
-subtitle: 2026.04.16 50屆 初階 
+subtitle: 2026.04.16
 ---
 
 # 第一堂筆記

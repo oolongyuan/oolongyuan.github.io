@@ -1,7 +1,7 @@
 ---
 icon: material/library-outline
 title: 50初階02
-subtitle: 2026.04.23 50屆 初階班
+subtitle: 2026.04.23
 ---
 
 
