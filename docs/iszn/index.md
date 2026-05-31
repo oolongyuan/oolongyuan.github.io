@@ -6,7 +6,17 @@ subtitle:
 
 # ISZN
 
- 1. [50初階01_20260416](/iszn/class01/)
+ 1. [50初階01_20260416](/iszn/class_01/)
+ 1. [50初階02_20260423](/iszn/class_02/)
+ 1. [50初階03_20260430](/iszn/class_03/)
+ 1. [50初階04_20260507](/iszn/class_04/)
+ 1. [50初階05_20260514](/iszn/class_05/)
+ 1. [50初階06_20260521](/iszn/class_06/)
+ 1. [50初階07_20260528](/iszn/class_07/)
+
+
+
+
 
  1. [50初階01_20260416](https://iframe.mediadelivery.net/embed/431082/e5ddc1fb-1711-4a39-840f-a7afd6e9a5ee?autoplay=false){target="_blank"}
 
