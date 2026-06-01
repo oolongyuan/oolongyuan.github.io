@@ -2,6 +2,9 @@
 icon: material/library-outline
 title: 50初階05
 subtitle: 2026.05.14
+tags:
+  - 太陽星
+  - 太陰星
 ---
 
 # 第五堂筆記

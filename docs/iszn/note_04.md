@@ -2,6 +2,8 @@
 icon: material/library-outline
 title: 50初階04
 subtitle: 2026.05.07
+tags: 
+  - 武曲星
 ---
 
 # 第四堂筆記

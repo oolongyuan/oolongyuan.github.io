@@ -2,6 +2,13 @@
 icon: material/library-outline
 title: 50初階03
 subtitle: 2026.04.30
+tags: 
+  - 貪狼星
+  - 破軍星
+  - 七殺星
+  - 武曲星
+  - 身宮
+  - 三方四正
 ---
 
 # 第三堂筆記

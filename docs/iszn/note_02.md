@@ -2,6 +2,12 @@
 icon: material/library-outline
 title: 50初階02
 subtitle: 2026.04.23
+tags:
+  - 紫微星
+  - 空宮
+  - 六吉星
+  - 天府星
+  - 祿存星
 ---
 
 
