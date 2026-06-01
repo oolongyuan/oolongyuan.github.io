@@ -7,7 +7,7 @@ subtitle: 50屆 初階班
 
 # 第50屆初階班
 
-![10_rules](/iszn/10_rules.png){: style="display: block; margin: 0 auto; border: 1px solid gray;" loading="lazy" }
+![10_rules](/iszn/10_rules.png){: style="display: block; margin: 0 auto; border: 1px solid gray; width: 50%;" loading="lazy" }
 
 ## 50初階01
 
