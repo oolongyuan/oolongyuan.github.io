@@ -29,13 +29,15 @@ subtitle: 50屆 初階班
 
 ## 50初階04
 
- 1. [50初階04_20260507](/iszn/class_04/)
- 
-    - [04_20260507_video](https://iframe.mediadelivery.net/embed/431082/15a47795-d5ce-43dc-8390-27b5236dbc16?autoplay=false){target="_blank"}
+ - [50初階04_20260507](/iszn/note_04/)
+ - [04_20260507_video](https://iframe.mediadelivery.net/embed/431082/15a47795-d5ce-43dc-8390-27b5236dbc16?autoplay=false){target="_blank"}
 
- 1. [50初階05_20260514](/iszn/class_05/)
- 
-    - [05_20260514_video](https://iframe.mediadelivery.net/embed/431082/4910d036-d3cf-4585-8828-cc3feee9ad8e?autoplay=false){target="_blank"}
+## 50初階05
+
+ - [50初階05_20260514](/iszn/note_05/)
+ - [05_20260514_video](https://iframe.mediadelivery.net/embed/431082/4910d036-d3cf-4585-8828-cc3feee9ad8e?autoplay=false){target="_blank"}
+
+
 
  1. [50初階06_20260521](/iszn/class_06/)
  
