@@ -7,7 +7,10 @@ subtitle: 50屆 初階班
 
 # Notes and Videos
 
-![10_rules](/iszn/10_rules.png)
+<figure markdown="span">
+  ![10_rules](/iszn/10_rules.png){ loading=lazy }
+  <figcaption>第50屆初階班</figcaption>
+</figure>
 
 ## 50初階01
 
