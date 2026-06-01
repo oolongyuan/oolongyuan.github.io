@@ -2,6 +2,9 @@
 icon: material/library-outline
 title: 50初階06
 subtitle: 2026.05.21
+tags:
+  - 天機星
+  - 天梁星
 ---
 
 # 第六堂筆記
