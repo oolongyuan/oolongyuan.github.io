@@ -117,12 +117,12 @@ subtitle: 2026.04.30
 
 三顆星曜必為三合，在三方四正內。
 
- - [YT補充殺破狼1：](https://www.youtube.com/watch?v=eeMGAkDjKF4&t=1s)
- - [YT補充殺破狼2：](https://www.youtube.com/watch?v=QQOzewsn2_E)
- - [YT補充殺破狼3：](https://www.youtube.com/watch?v=mxWDnR1CCBk)
- - [YT補充破軍：](https://www.youtube.com/watch?v=eeMGAkDjKF4)
- - [YT補充貪狼：](https://www.youtube.com/watch?v=s03HxjNZsJc)
- - [YT補充七殺：](https://www.youtube.com/watch?v=fG7taORWmz4)
+ - YT補充殺破狼1：<https://www.youtube.com/watch?v=eeMGAkDjKF4&t=1s>
+ - YT補充殺破狼2：<https://www.youtube.com/watch?v=QQOzewsn2_E>
+ - YT補充殺破狼3：<https://www.youtube.com/watch?v=mxWDnR1CCBk>
+ - YT補充破軍：<https://www.youtube.com/watch?v=eeMGAkDjKF4>
+ - YT補充貪狼：<https://www.youtube.com/watch?v=s03HxjNZsJc>
+ - YT補充七殺：<https://www.youtube.com/watch?v=fG7taORWmz4>
 
 #### 1、貪狼：化氣為桃花
 
