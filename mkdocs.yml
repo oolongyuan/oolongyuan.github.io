@@ -68,6 +68,9 @@ theme:
       #    - navigation.tabs
       #    - navigation.tabs.sticky     
 
+plugins:
+  - tags
+
 markdown_extensions:
   - footnotes
   - attr_list
