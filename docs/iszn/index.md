@@ -45,13 +45,13 @@ subtitle: 50屆 初階班
  - [06_20260521_video](https://iframe.mediadelivery.net/embed/431082/2da484e6-29e0-4ffd-b461-52d409f37a44?autoplay=false){target="_blank"}
 
 
-## 50初階06
+## 50初階07
  
  - [50初階07_20260528](/iszn//)
  - [07_20260528_video](https://iframe.mediadelivery.net/embed/431082/5797aed9-5adf-4844-a5c1-40102f27665a?autoplay=false){target="_blank"}
 
 
-## 50初階06
+## 50初階08
 
  1. [50初階08_202606](/iszn//)
  1. [50初階09_202606](/iszn//)
