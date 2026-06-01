@@ -162,27 +162,28 @@ subtitle: 2026.05.14
  1. 如果煞星不明顯或不集中：檢查煞星是否落入三方四正，或踩到煞星的宮位，由此綜合判斷相關的影響。
 
 
-【文章&影片參考】
+## 文章&影片參考
+
 【日月並明格】太陽獨坐在辰，一生光鮮亮麗且照顧旁人
-https://lucidchateau.blogspot.com/2016/05/blog-post_18.html
+ - <https://lucidchateau.blogspot.com/2016/05/blog-post_18.html>
 
 讀懂十四主星的心裡話 | 太陽制定規範的光►國際紫微學會&大耕老師◄簡單上手斗數命盤
-https://www.youtube.com/watch?v=DQ-VMz5Xgks&t=344s
+ - <https://www.youtube.com/watch?v=DQ-VMz5Xgks&t=344s>
 
 孝順顧家太陽星, 太陽在命盤中旺弱有何不同(上)►一學就會紫微斗數◄
-https://www.youtube.com/watch?v=BCwNYu9EHh0&t=276s
+ - <https://www.youtube.com/watch?v=BCwNYu9EHh0&t=276s>
 
 人生不只是一個局#EP4 太陽坐官祿，事業一把罩?! ►國際紫微學會&大耕老師◄簡單上手斗數命盤
-https://www.youtube.com/watch?v=XLXLJ91MRBc
+ - <https://www.youtube.com/watch?v=XLXLJ91MRBc>
 
 星曜的內心世界 **太陰星**
-https://lucidchateau.blogspot.com/2018/01/blog-post_12.html
+ - <https://lucidchateau.blogspot.com/2018/01/blog-post_12.html>
 
 **太陰星** 再論之二
-https://lucidchateau.blogspot.com/2017/05/blog-post_28.html
+ - <https://lucidchateau.blogspot.com/2017/05/blog-post_28.html>
 
 細心溫柔太陰星(上)►一學就會紫微斗數◄
-https://www.youtube.com/watch?v=0yoy8zFYeaM
+ - <https://www.youtube.com/watch?v=0yoy8zFYeaM>
 
 
 
