@@ -12,56 +12,70 @@ subtitle: 50屆 初階班
 
 ## 50初階01
 
- - Date: 2026.04.16
- - 筆記: [50初階01_20260416](./note_01/)
- - 作業: [50初階01_20260420](./note_01_homework/)
- - Video: [01_video][v01]{target="_blank"}
+ - **日期**: 2026.04.16
+ - **視頻**: [01_video][v01]{target="_blank"} 
+ - **作業**: [01_works](./note_01_homework/)
+ - **筆記**: [01_notes](./note_01/) 
+
 
 ## 50初階02
 
- - Date: 2026.04.27
- - 筆記: [50初階02_20260423](./note_02/)
- - 作業: [50初階01_20260427](./)
- - Video: [02_video][v02]{target="_blank"}
+ - **日期**: 2026.04.23
+ - **視頻**: [02_video][v02]{target="_blank"} 
+ - **作業**: [02_works](./note_02_homework/)
+ - **筆記**: [02_notes](./note_02/) 
+
 
 ## 50初階03
 
- - 筆記: [50初階03_20260430](./note_03/)
- - 作業: [50初階01_20260504](./note_03_homework/)
- - Video: [03_20260430_video][v03]{target="_blank"}
+ - **日期**: 2026.04.30
+ - **視頻**: [03_video][v03]{target="_blank"} 
+ - **作業**: [03_works](./note_03_homework/)
+ - **筆記**: [03_notes](./note_03/) 
 
 
 ## 50初階04
 
- - 筆記: [50初階04_20260507](./note_04/)
- - 作業: [50初階01_20260511](./note_04_homework/)
- - Video: [04_20260507_video][v04]{target="_blank"}
+ - **日期**: 2026.05.07
+ - **視頻**: [04_video][v04]{target="_blank"} 
+ - **作業**: [04_works](./note_04_homework/)
+ - **筆記**: [04_notes](./note_04/) 
 
 
 ## 50初階05
 
- - 筆記: [50初階05_20260514](./note_05/)
- - 作業: [50初階01_20260518](./note_05_homework/)
- - Video: [05_20260514_video][v05]{target="_blank"}
+ - **日期**: 2026.05.14
+ - **視頻**: [05_video][v05]{target="_blank"} 
+ - **作業**: [05_works](./note_05_homework/)
+ - **筆記**: [05_notes](./note_05/) 
 
 
 ## 50初階06
 
- - 筆記: [50初階06_20260521](./note_06/)
- - 作業: [50初階01_20260525](./note_06_homework/)
- - Video: [06_20260521_video][v06]{target="_blank"}
+ - **日期**: 2026.05.21
+ - **視頻**: [06_video][v06]{target="_blank"} 
+ - **作業**: [06_works](./note_06_homework/)
+ - **筆記**: [06_notes](./note_06/) 
 
 
 ## 50初階07
  
- - 筆記: [50初階07_20260528](./note_07/)
- - 作業: [50初階01_20260601](./note_07_homework/)
- - Video: [07_20260528_video][v07]{target="_blank"}
+ - **日期**: 2026.05.28
+ - **視頻**: [07_video][v07]{target="_blank"} 
+ - **作業**: [07_works](./note_07_homework/)
+ - **筆記**: [07_notes](./note_07/) 
 
 
 ## 50初階08
 
- 1. 筆記: [50初階08_202606](/iszn//)
+ - **日期**: 2026.06.04
+ - **視頻**: [08_video][v08]{target="_blank"} 
+ - 作業: [08_works](./note_08_homework/)
+ - 筆記: [08_notes](./note_08/) 
+
+
+## 50初階09
+
  1. 筆記: [50初階09_202606](/iszn//)
  1. 筆記: [50初階10_202606](/iszn//)
  1. 筆記: [50初階11_202606](/iszn//)
@@ -81,4 +95,6 @@ subtitle: 50屆 初階班
 [v06]: https://iframe.mediadelivery.net/embed/431082/2da484e6-29e0-4ffd-b461-52d409f37a44?autoplay=false
 
 [v07]: https://iframe.mediadelivery.net/embed/431082/5797aed9-5adf-4844-a5c1-40102f27665a?autoplay=false
+
+[v08]: https://iframe.mediadelivery.net/embed/431082/0617a882-678f-423e-846e-4d54ed749a47?autoplay=false
 
