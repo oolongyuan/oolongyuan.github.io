@@ -20,3 +20,31 @@ body {
   max-width: initial;
 }
 
+/* Container for the tag list */
+.md-typeset .md-tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0;
+  margin: 1rem 0;
+  list-style: none;
+}
+
+/* Individual cloud tags */
+.md-typeset .md-tag-list a {
+  background-color: var(--md-primary-color--light, #efefef);
+  color: var(--md-primary-color, #333);
+  padding: 0.3rem 0.6rem;
+  border-radius: 0.25rem;
+  font-size: 0.85rem;
+  text-decoration: none;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+/* Hover effects */
+.md-typeset .md-tag-list a:hover {
+  background-color: var(--md-primary-color);
+  color: var(--md-primary-color--text, #fff);
+}
+
+

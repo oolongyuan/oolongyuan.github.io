@@ -1,5 +1,5 @@
 ---
-icon: material/library-outline
+icon: material/library
 title: 50初階01
 subtitle: 2026.04.20
 ---

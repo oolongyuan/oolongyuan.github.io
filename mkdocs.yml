@@ -41,6 +41,8 @@ theme:
   favicon: assets/yy.ico
   icon: 
     logo: fontawesome/solid/yin-yang
+    tag:
+      default: octicons/tag-24
 
   font:
     size: 32px
@@ -69,7 +71,10 @@ theme:
       #    - navigation.tabs.sticky     
 
 plugins:
-  - tags
+  - search
+  - tags:
+  - privacy:
+      links: true
 
 markdown_extensions:
   - footnotes
