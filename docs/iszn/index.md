@@ -14,41 +14,41 @@ subtitle: 50屆 初階班
 
 | **日期** | **視頻** | **作業** / **筆記** |
 | :------: | :------: | :-----------------: |
-| 2026.04.16 | [01_video][v01]{target="_blank"} | [01_works](./note_01_homework/) </br> [01_notes](./note_01/) | 
+| 2026.04.16 | [01_video][v01]{target="_blank"} | [01_works](./01_homework/) </br> [01_notes](./01_notes/) | 
 
 ## 50初階02
 
 | **日期** | **視頻** | **作業** / **筆記** |
 | :------: | :------: | :-----------------: |
-| 2026.04.23 | [02_video][v02]{target="_blank"} | [02_works](./note_02_homework/) </br> [02_notes](./note_02/) |
+| 2026.04.23 | [02_video][v02]{target="_blank"} | [02_works](./02_homework/) </br> [02_notes](./02_notes/) |
 
 
 ## 50初階03
 
 | **日期** | **視頻** | **作業** / **筆記** |
 | :------: | :------: | :-----------------: |
-| 2026.04.30 | [03_video][v03]{target="_blank"} | [03_works](./note_03_homework/) </br> [03_notes](./note_03/) | 
+| 2026.04.30 | [03_video][v03]{target="_blank"} | [03_works](./03_homework/) </br> [03_notes](./03_notes/) | 
 
 
 ## 50初階04
 
 | **日期** | **視頻** | **作業** / **筆記** |
 | :------: | :------: | :-----------------: |
-| 2026.05.07 | [04_video][v04]{target="_blank"} | [04_works](./note_04_homework/) </br> [04_notes](./note_04/) |
+| 2026.05.07 | [04_video][v04]{target="_blank"} | [04_works](./04_homework/) </br> [04_notes](./04_notes/) |
 
 
 ## 50初階05
 
 | **日期** | **視頻** | **作業** / **筆記** |
 | :------: | :------: | :-----------------: |
-| 2026.05.14 | [05_video][v05]{target="_blank"} | [05_works](./note_05_homework/) </br> [05_notes](./note_05/) |
+| 2026.05.14 | [05_video][v05]{target="_blank"} | [05_works](./05_homework/) </br> [05_notes](./05_notes/) |
 
 
 ## 50初階06
 
 | **日期** | **視頻** | **作業** / **筆記** |
 | :------: | :------: | :-----------------: |
-| 2026.05.21 | [06_video][v06]{target="_blank"} | [06_works](./note_06_homework/) </br> [06_notes](./note_06/) |
+| 2026.05.21 | [06_video][v06]{target="_blank"} | [06_works](./06_homework/) </br> [06_notes](./06_notes/) |
 
 
 ## 50初階07
