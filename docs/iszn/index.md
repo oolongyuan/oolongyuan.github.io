@@ -55,7 +55,7 @@ subtitle: 50屆 初階班
  
 | **日期** | **視頻** | **作業** / **筆記** |
 | :------: | :------: | :-----------------: |
-| 2026.05.28 | [07_video][v07]{target="_blank"} | [07_works](./note_07_homework/) </br> [07_notes](./note_07/) |
+| 2026.05.28 | [07_video][v07]{target="_blank"} | [07_works](./07_homework/) </br> [07_notes](./07_notes/) |
 
 
 ## 50初階08
