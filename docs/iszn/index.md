@@ -69,13 +69,13 @@ subtitle: 50屆 初階班
 
 | **日期** | **視頻** | **作業** / **筆記** |
 | :------: | :------: | :-----------------: |
-| 2026.06.11 | [09_video][v09]{target="_blank"} | 09_works(./note_09_homework/) </br> 09_notes(./note_09/) |
+| 2026.06.11 | [09_video][v09]{target="_blank"} | 09_works(./09_homework/) </br> 09_notes(./09_notes/) |
 
 ## 50初階10
 
 | **日期** | **視頻** | **作業** / **筆記** |
 | :------: | :------: | :-----------------: |
-| 2026.06.18 | [10_video][v10]{target="_blank"} | 10_works(./note_10_homework/) </br> 10_notes(./note_10/) |
+| 2026.06.18 | [10_video][v10]{target="_blank"} | 10_works(./10_homework/) </br> 10_notes(./10_notes/) |
 
 
 ## 50初階11
